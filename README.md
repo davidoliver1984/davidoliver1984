@@ -4,7 +4,7 @@ Since then, I’ve worked on hundreds of projects across every kind of setting: 
 
 In recent years Laravel has become my speciality, often paired with modern front-ends like React, Vue, or full-stack TALL setups. I’ve also taken on a number of API and platform integration projects, as well as legacy system modernisations, which I really enjoy doing. There’s something satisfying about bringing an old system into the present.
 
-My core languages are PHP and Python. I did a lot of Classic ASP in the early days, and I’ve delivered major builds in .NET too. Over the years I’ve helped launch startups from scratch, collaborated with leading design agencies in the UK, Europe and North America, and contributed in both team-based and client-facing roles.
+My core languages are PHP and Python. I work a lot with Classic ASP in the early days, and I’ve delivered major builds in .NET too. Over the years I’ve helped launch startups from scratch, collaborated with leading design agencies in the UK, Europe and North America, and contributed in both team-based and client-facing roles.
 
 Like any good dev, I love a challenge. Building great systems and seeing them come to life never gets old. I’ve added a few recent case studies on my website aboutmywork.com, along with a handful of older projects I’m especially proud of (with more to come)
 
