@@ -1,7 +1,7 @@
 <h1>david oliver - aboutmywork.com</h1>
 
 ### Languages
-![PHP](https://img.shields.io/badge/-PHP-999999?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-999999?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-999999?style=flat-square&logo=python&logoColor=white)
 ![Classic ASP](https://img.shields.io/badge/-Classic%20ASP-999999?style=flat-square)
