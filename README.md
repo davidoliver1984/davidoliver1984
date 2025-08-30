@@ -1,11 +1,11 @@
 <h1>david oliver - aboutmywork.com</h1>
 
 ### Languages
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Classic ASP](https://img.shields.io/badge/-Classic%20ASP-0d0d0d?style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-999999?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-999999?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-999999?style=flat-square&logo=python&logoColor=white)
+![Classic ASP](https://img.shields.io/badge/-Classic%20ASP-999999?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-999999?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/-Laravel-cc0000?style=flat-square&logo=laravel&logoColor=white)
