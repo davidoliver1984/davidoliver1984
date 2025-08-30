@@ -1,6 +1,6 @@
 <h1>David Oliver - aboutmywork.com</h1>
 
-I'm full-stack developer with 24+ years of experience building secure systems, bespoke platforms, and modern web apps.
+I'm full-stack developer with 24+ years of experience building secure systems, bespoke platforms, and modern web apps. Always open to new things: david [at] aboutmywork [dot] com
 
 ### Languages
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=white)
